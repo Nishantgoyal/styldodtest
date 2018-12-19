@@ -1,0 +1,23 @@
+{
+  "name": "styldodtest",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hpstyldod@bitbucket.org/hpstyldod/styldodtest.git"
+  },
+  "author": "hp",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/hpstyldod/styldodtest#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
