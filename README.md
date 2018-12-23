@@ -3,4 +3,4 @@
 * `npm install` all the required modules
 * setup jenkins
 * setup mocha with jenkins
-* automate the test and deployment 
+* automate the test and deployment

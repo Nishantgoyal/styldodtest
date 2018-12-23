@@ -6,6 +6,6 @@ describe('App',function(){
     });
 
     it('it should return mutiplied value',function(){
-        assert.equal(calc.mulNumbers(3,2),6);
+        assert.equal(calc.mulNumbers(3,2),7);
     });
 });
